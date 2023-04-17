@@ -1,0 +1,8 @@
+pip install requests
+pip install colorama
+pip install threading
+pip install ctypes
+pip install os
+pip install pystyle
+pip install base64
+pip install time
